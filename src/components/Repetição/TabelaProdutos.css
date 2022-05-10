@@ -1,0 +1,9 @@
+.TabelaProdutos table{
+    width: 100%;
+    text-align: center;
+    padding: 50%;
+    
+}
+.TabelaProdutos th {
+    background-color: #E57250;
+}
