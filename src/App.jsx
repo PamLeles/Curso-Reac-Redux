@@ -2,6 +2,7 @@
 import './App.css'
 import React from 'react'
 
+import {Input} from './components/formulario/Input';
 import IndiretaPai from './components/comunicacao/IndiretaPai';
 import DiretaPai from './components/comunicacao/DiretaPai';
 import Usuarioinfo from './components/condicional/Usuarioinfo';
