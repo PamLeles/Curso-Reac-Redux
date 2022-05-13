@@ -1,7 +1,22 @@
-# Curso de React + Redux
+# Conhecendo os Fundamentos do React
 
-Exercicios Práticos Webpack, React, Redux e todo o ecossistema envolvido no processo. Inclusive tecnologias de backend, como Node, Express e MongoDB.
+Aprendendo o básico de React;
+- Criando componentes;
+- Componentes com propriedades; 
+- Renderização de condicionais;  
+- Comunicação direta e indireta;
+- Componentes com Estados;
+- Componentes controlado;
+- Componente baseado em class;
 
-Configuração de uma aplicação com Webpack.
-Criar componentes em React.
-Integrar o Redux em uma aplicação React
+ ## Desafio de Codigos
+ - Repetição;
+ - Dados;
+ - Contador;
+ - Megasena (em andamento);
+ 
+ ## 🚀 Tecnologias
+- HTML
+- CSS
+- JavaScript 
+- JSX
